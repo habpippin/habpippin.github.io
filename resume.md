@@ -1,9 +1,11 @@
 Hayley Pippin
 =============
-
-------------------------                   
+  
+---  
 hayley.pippin@gmail.com  
 206-790-0514
+
+---
 
 
 Education
