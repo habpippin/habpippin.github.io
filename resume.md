@@ -1,95 +1,65 @@
-Johnny Coder
-============
+Hayley Pippin
+=============
 
-------------                       ------------------
-1 MyAddress                        email@example.com
-------------                      -------------------
-MyTown 1000                          @twitter_handle
-------------                        -----------------
-MyCountry                           1800 my-phone-nr
-------------                        -----------------
+------------------------                   
+hayley.pippin@gmail.com  
+206-790-0514
+
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2015 - 2019  
+**B.A., Applied Mathematics**; University of California, Berkeley  
+*Concentration: Data Science*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Project Lead**, NASA DEVELOP National Program  
+*NASA Jet Propulsion Laboratory*  
+September 2019 - November 2019
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Managed a team of four to develop software in the Google Earth Engine JavaScript platform 
+to monitor water quality along the coasts of Belize and Honduras.  
+* Analyzed Landsat, Aqua, and Terra MODIS satellite data
+* Produced analysis tool, technical report, presentation, poster, [video](https://www.youtube.com/watch?v=2Z5TWgxwefU)
+* Coordinated and led meetings with scientists and international project partners
 
-* First item
+**Remote Sensing Researcher**, NASA DEVELOP Program
+*NASA Ames Research Center*  
+June 2019 - August 2019
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Created a tool in the Google Earth Engine JavaScript platform to study surface mining land disturbance and reclamation.
+* Processed and analyzed Landsat 5/7/8 and Sentinel-2 satellite data
+* Led the design of land monitoring software development
+••* Integrated tasseled cap and NDVI methodology into the script
 
-**That Other Job You Had**
+Skills
+------
 
-Also with a short description.
+**_Communication_**
+* Public speaking
+* Writing reports
+* Data presentation
 
-Technical Experience
---------------------
+**_Technological_**
+* Microsoft Office
+* Google Earth Engine
+* SPSS
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**_Programming Languages_**
+* **R:** Have written geospatial analysis scripts and financial reports in R. 
+Taught introduction to R lessons.
+* **JavaScript:** Created two analysis tools using JavaScript in Google Earth Engine.
+* Basic knowledge of **Python**, **Git**, **Julia**, **LaTeX**, **Markdown**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Certifications
+--------------
+**Software Carpentry Certified Instructor**, December 2020 - Present
+Certified to teach introductory lessons in:
+* R
+* Python
+* Git
+* Bash
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
