@@ -57,9 +57,9 @@ Taught introduction to R lessons.
 Certifications
 --------------
 **Software Carpentry Certified Instructor**, December 2020 - Present  
-Certified to teach introductory lessons in:
-* R
-* Python
-* Git
-* Bash
+> Certified to teach introductory lessons in:
+> * R
+> * Python
+> * Git
+> * Bash
 
