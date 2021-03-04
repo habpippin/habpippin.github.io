@@ -28,7 +28,7 @@ to monitor water quality along the coasts of Belize and Honduras.
 * Produced analysis tool, technical report, presentation, poster, [video](https://www.youtube.com/watch?v=2Z5TWgxwefU)
 * Coordinated and led meetings with scientists and international project partners
 
-**Remote Sensing Researcher**, NASA DEVELOP Program
+**Remote Sensing Researcher**, NASA DEVELOP Program  
 *NASA Ames Research Center*  
 June 2019 - August 2019
 
