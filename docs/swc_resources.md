@@ -2,7 +2,7 @@
 
 ## Tutorials
 
-##### Key:
+#### Key:
 * **Fast:** A general quickguide or easy-to-speed-through tutorial.
 * **Medium:** A slower walkthrough tutorial that you can pause, rewind, and do in your own time.
 * **Slow:** A tutorial with a more structured format, usually accompanied with extensive exercises.
