@@ -36,7 +36,7 @@
 If it is unclear which programming language is best suited for your upcoming project, check out this (nerdy) debate: [R vs. Python for Data Science: Summary of Modern Advances](https://elitedatascience.com/r-vs-python-for-data-science)
 
 ***
-**These are just some starting suggestions to explore the languages that will be covered in the Software Carpentry workshops. DO not feel that you have to learn the material beforehand 
+**These are just some starting suggestions to explore the languages that will be covered in the Software Carpentry workshops. Do not feel that you have to learn the material beforehand 
 -- the workshops are introductory, so it will all be covered during the sessions!**
 
 ***
